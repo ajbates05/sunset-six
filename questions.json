@@ -1,0 +1,56 @@
+{
+  "2026-07-17": [
+    {
+      "cat": "Food & Drink",
+      "q": "What fruit is used to make guacamole?",
+      "a": [
+        "avocado",
+        "avocados"
+      ]
+    },
+    {
+      "cat": "Sports",
+      "q": "How many holes are played in a standard round of golf?",
+      "a": [
+        "18",
+        "eighteen"
+      ]
+    },
+    {
+      "cat": "Music",
+      "q": "Which English city are The Beatles from?",
+      "a": [
+        "liverpool"
+      ]
+    },
+    {
+      "cat": "History",
+      "q": "Which ancient civilization built Machu Picchu?",
+      "a": [
+        "inca",
+        "the inca",
+        "incas",
+        "incan",
+        "inca empire"
+      ]
+    },
+    {
+      "cat": "Geography",
+      "q": "Which US city is nicknamed the Big Peach?",
+      "c": [
+        "Miami",
+        "Atlanta",
+        "Charlotte",
+        "Savannah"
+      ],
+      "a": "Atlanta"
+    },
+    {
+      "cat": "Food & Drink",
+      "q": "Which grape variety is traditional Chablis made from?",
+      "a": [
+        "chardonnay"
+      ]
+    }
+  ]
+}
