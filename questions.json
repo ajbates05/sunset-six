@@ -52,5 +52,58 @@
         "chardonnay"
       ]
     }
+  ],
+  "2026-07-21": [
+    {
+      "cat": "History",
+      "q": "Which country gave the Statue of Liberty to the United States?",
+      "a": [
+        "france"
+      ]
+    },
+    {
+      "cat": "Nature",
+      "q": "What is the largest big cat in the world?",
+      "a": [
+        "tiger",
+        "the tiger",
+        "siberian tiger"
+      ]
+    },
+    {
+      "cat": "Food & Drink",
+      "q": "Which spirit is the base of a mojito?",
+      "a": [
+        "rum",
+        "white rum"
+      ]
+    },
+    {
+      "cat": "Geography",
+      "q": "Which African river is traditionally considered the world's longest?",
+      "a": [
+        "nile",
+        "the nile",
+        "nile river"
+      ]
+    },
+    {
+      "cat": "Music",
+      "q": "Who composed the opera The Magic Flute?",
+      "c": [
+        "Wagner",
+        "Verdi",
+        "Puccini",
+        "Mozart"
+      ],
+      "a": "Mozart"
+    },
+    {
+      "cat": "Science",
+      "q": "Who discovered the law of buoyancy while in a bath, reportedly shouting 'Eureka'?",
+      "a": [
+        "archimedes"
+      ]
+    }
   ]
 }
