@@ -1,4 +1,57 @@
 {
+  "2026-07-21": [
+    {
+      "cat": "History",
+      "q": "Which Founding Father famously flew a kite in a lightning storm?",
+      "a": [
+        "benjamin franklin",
+        "ben franklin",
+        "franklin"
+      ]
+    },
+    {
+      "cat": "Geography",
+      "q": "Which US state is nicknamed the Bluegrass State?",
+      "a": [
+        "kentucky"
+      ]
+    },
+    {
+      "cat": "Music",
+      "q": "Which soul singer recorded \"(Sittin' On) The Dock of the Bay\"?",
+      "a": [
+        "otis redding",
+        "redding"
+      ]
+    },
+    {
+      "cat": "Food & Drink",
+      "q": "Margaux and Pauillac are famous appellations in which French wine region?",
+      "a": [
+        "bordeaux",
+        "the medoc",
+        "medoc"
+      ]
+    },
+    {
+      "cat": "Business",
+      "q": "Which is the oldest stock exchange in the United States?",
+      "c": [
+        "New York Stock Exchange",
+        "Nasdaq",
+        "Philadelphia Stock Exchange",
+        "Chicago Board of Trade"
+      ],
+      "a": "Philadelphia Stock Exchange"
+    },
+    {
+      "cat": "Sports",
+      "q": "Which horse won the 1973 Belmont Stakes by 31 lengths to clinch the Triple Crown?",
+      "a": [
+        "secretariat"
+      ]
+    }
+  ],
   "2026-07-25": [
     {
       "cat": "History",
@@ -46,6 +99,57 @@
       "q": "Which film holds the record as the first to win all top five Academy Awards categories?",
       "a": [
         "it happened one night"
+      ]
+    }
+  ],
+  "2026-07-27": [
+    {
+      "cat": "Sports",
+      "q": "What NHL team’s mascot is a once derogatory term for Canadiens?",
+      "a": [
+        "Vancouver Canucks",
+        "Vancouver",
+        "Canucks"
+      ]
+    },
+    {
+      "cat": "Geography",
+      "q": "What nation is roughly 1,000 square miles and is known as “Grand Duchy”?",
+      "a": [
+        "Luxembourg"
+      ]
+    },
+    {
+      "cat": "Nature",
+      "q": "What do you call a scientist who studies insects?",
+      "a": [
+        "entomologist",
+        "an entomologist"
+      ]
+    },
+    {
+      "cat": "Music",
+      "q": "“Come Sail Away” was a 70’s hit by a band with what Greek mythological name?",
+      "a": [
+        "Styx"
+      ]
+    },
+    {
+      "cat": "Arenas",
+      "q": "Which stadium is also referred to as the “Millennium Dome”?",
+      "c": [
+        "Tottenham Hotspur Stadium",
+        "O2 Arena",
+        "Wembly Stadium",
+        "Etihad Arena"
+      ],
+      "a": "O2 Arena"
+    },
+    {
+      "cat": "Culture",
+      "q": "Which fashion house released its numbered perfume 'No. 5' in 1921?",
+      "a": [
+        "chanel"
       ]
     }
   ]
