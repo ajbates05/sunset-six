@@ -152,5 +152,57 @@
         "chanel"
       ]
     }
+  ],
+  "2026-07-28": [
+    {
+      "cat": "Culture",
+      "q": "Despite its name, what shape is a boxing ring?",
+      "a": [
+        "square",
+        "a square"
+      ]
+    },
+    {
+      "cat": "Geography",
+      "q": "The Golden Gate Bridge is in which city?",
+      "a": [
+        "san francisco"
+      ]
+    },
+    {
+      "cat": "History",
+      "q": "Who was assassinated in Sarajevo in 1914, helping trigger World War I?",
+      "a": [
+        "archduke franz ferdinand",
+        "franz ferdinand",
+        "archduke ferdinand"
+      ]
+    },
+    {
+      "cat": "Sports",
+      "q": "The Ryder Cup is a championship in which sport?",
+      "a": [
+        "golf"
+      ]
+    },
+    {
+      "cat": "Film & TV",
+      "q": "Who directed the movie Jaws and E.T.?",
+      "c": [
+        "George Lucas",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Francis Ford Coppola"
+      ],
+      "a": "Steven Spielberg"
+    },
+    {
+      "cat": "Business",
+      "q": "Which US president appears on the $100,000 bill, the largest ever printed?",
+      "a": [
+        "woodrow wilson",
+        "wilson"
+      ]
+    }
   ]
 }
